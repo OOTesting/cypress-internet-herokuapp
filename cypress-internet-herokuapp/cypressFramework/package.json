@@ -1,0 +1,21 @@
+{
+  "name": "cypressframework",
+  "version": "1.0.0",
+  "description": "Test automation using Cypress on the Internet site - the-internet.herokuapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ootesting/Cypressframework.git"
+  },
+
+  "author": "Owupele Orupabo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "cypress-xpath": "^1.6.2",
+    "faker": "^5.5.3"
+  }
+}
